@@ -1,0 +1,7 @@
+String to number:
+
+int x = std::stoi(string);
+
+number to String:
+
+string s = to_string(number);
